@@ -4,7 +4,7 @@
 ### Idea:
 * [zUnlegit#0743](http://unlegit.cft-devs.xyz)
 # Introduction:
-It's a little project idea by zUnlegit#0743 and -TOXIC-#1835 made it to a a program.
+It's a little project idea, by zUnlegit#0743 and -TOXIC-#1835 made it to a a program.
 This can open websites and screenshot it.
 # Requires:
 * (python import) selenium
